@@ -1,0 +1,23 @@
+# Core dependencies
+reportlab>=4.0.0
+matplotlib>=3.7.0
+openai>=1.0.0
+
+# Optional but recommended (already in Python standard library)
+# No additional install needed for these:
+# - subprocess
+# - platform
+# - re
+# - datetime
+# - threading
+# - os
+# - json
+# - smtplib
+# - email
+# - sys
+# - signal
+# - gc
+# - atexit
+# - collections
+# - io
+# - traceback

@@ -1,0 +1,32 @@
+{
+    "daily_report": {
+        "enabled": true,
+        "hour": 23,
+        "minute": 59,
+        "description": "Daily report at 23:59 (just before midnight)"
+    },
+    "weekly_report": {
+        "enabled": true,
+        "day_of_week": 0,
+        "hour": 23,
+        "minute": 59,
+        "description": "Weekly report on Sunday at 23:59 (0=Monday, 6=Sunday)"
+    },
+    "monthly_report": {
+        "enabled": false,
+        "day_of_month": 1,
+        "hour": 0,
+        "minute": 0,
+        "description": "Monthly report on 1st day of month at midnight"
+    },
+    "hourly_report": {
+        "enabled": false,
+        "minute": 59,
+        "description": "Hourly report at the top of every hour"
+    },
+    "custom_interval": {
+        "enabled": true,
+        "interval_hours": 0.16,
+        "description": "Custom 6-hour report"
+    }
+}

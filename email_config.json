@@ -1,0 +1,10 @@
+{
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "",
+    "sender_password": "",
+    "recipient_emails": [""],
+    "email_subject_prefix": " Network Report",
+    "enabled": true,
+    "description": "Configure email settings. For Gmail, use an App Password"
+}

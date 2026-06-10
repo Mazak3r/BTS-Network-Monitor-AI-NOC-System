@@ -1,0 +1,32 @@
+[
+    {
+        "name": "phone CD",
+        "ip": "192.168.101.3",
+        "is_major": true
+    },
+    {
+        "name": "TV",
+        "ip": "192.168.101.8",
+        "is_major": true
+    },
+    {
+        "name": "Lagos Aggregator",
+        "ip": "192.168.101.9",
+        "is_major": true
+    },
+    {
+        "name": "Huwaei",
+        "ip": "192.168.101.200",
+        "is_major": false
+    },
+    {
+        "name": "Google DNS",
+        "ip": "8.8.8.8",
+        "is_major": false
+    },
+    {
+        "name": "Cloudflare",
+        "ip": "1.1.1.1",
+        "is_major": false
+    }
+]

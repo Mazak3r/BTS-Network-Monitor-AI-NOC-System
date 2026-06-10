@@ -1,0 +1,12 @@
+{
+    "ping_interval_seconds": 5,
+    "packet_size_bytes": 1472,
+    "ping_timeout_seconds": 2,
+    "packet_loss_window_seconds": 30,
+    "failure_threshold": 12,
+    "monitoring_log_interval_seconds": 30,
+    "description": "How often to write heartbeat to log file",
+    "initial_status_check_seconds": 1,
+    "packet_loss_log_retention": 100,
+    "description": "failure_threshold: consecutive failures before marking OFFLINE (60 seconds with 5s interval = 12)"
+}
